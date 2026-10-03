@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/PR+6EkKkqQ=",
+  "success": true,
+  "projectFilePath": "/Users/glennreinardstanis/TugasRMQ2/Consumer-cmd/Consumer-cmd.csproj",
+  "expectedPackageFiles": [
+    "/Users/glennreinardstanis/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

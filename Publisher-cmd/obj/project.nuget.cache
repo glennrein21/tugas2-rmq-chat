@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrVHUISt35A=",
+  "success": true,
+  "projectFilePath": "/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/Publisher-cmd.csproj",
+  "expectedPackageFiles": [
+    "/Users/glennreinardstanis/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

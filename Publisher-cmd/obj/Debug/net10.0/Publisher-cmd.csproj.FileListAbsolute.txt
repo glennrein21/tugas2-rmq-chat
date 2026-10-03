@@ -1,0 +1,17 @@
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/bin/Debug/net10.0/Publisher-cmd
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/bin/Debug/net10.0/Publisher-cmd.deps.json
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/bin/Debug/net10.0/Publisher-cmd.runtimeconfig.json
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/bin/Debug/net10.0/Publisher-cmd.dll
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/bin/Debug/net10.0/Publisher-cmd.pdb
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/bin/Debug/net10.0/RabbitMQ.Client.dll
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.csproj.AssemblyReference.cache
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.AssemblyInfoInputs.cache
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.AssemblyInfo.cs
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.csproj.CoreCompileInputs.cache
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publishe.75DF48D1.Up2Date
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.dll
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/refint/Publisher-cmd.dll
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.pdb
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/Publisher-cmd.genruntimeconfig.cache
+/Users/glennreinardstanis/TugasRMQ2/Publisher-cmd/obj/Debug/net10.0/ref/Publisher-cmd.dll
